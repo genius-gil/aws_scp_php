@@ -1,3 +1,5 @@
 AWS SCP Transfer Site
 
-EC2 Red Hat Enterprise Linux
+https://aws.amazon.com/
+
+EC2 : Red Hat Enterprise Linux
