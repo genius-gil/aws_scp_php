@@ -7,3 +7,6 @@ yum-config-manager --enable remi-php72
 yum install -y php php-common php-opcache php-mcrypt php-cli php-gd php-curl php-mysql -y
 
 tar -cvzpf /var/aws_redhat_php_upload_220913.tgz --exclude="*.PDF" --exclude="*.pdf" --exclude="*.ppt" --exclude="*.exe" --exclude="*.zip" --exclude="*.msi" --exclude="*.alz" etc/passwd etc/shadow home/ec2-user/ root/ etc/php.ini var/www/html/ var/dn2/ var/dn/ var/dn3/ etc/httpd/conf/httpd.conf etc/ssh/sshd_config etc/init.d/sshd var2 var/apm_install.txt
+
+
+1
